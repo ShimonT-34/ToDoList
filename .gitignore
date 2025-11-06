@@ -1,3 +1,4 @@
 venv/
-ToDoListProject/__pycache__
-ToDoListApp/__pycache__
+__pycache__/
+.env
+db.sqlite3
